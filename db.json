@@ -1,0 +1,93 @@
+{
+    "animal":[
+        {
+          "animal": "Lion",
+          "fact": "A lion's roar can be heard over 8km away. Lions are able to roar so loudly due to a ligament in their voice box.",
+          "source": "https://www.africanbudgetsafaris.com/blog/did-you-know-fascinating-facts-about-a"
+        },
+        {
+          "animal": "Rhino",
+          "fact": "The greatest threat facing African rhinos is poaching for the illegal trade in their horns, which has soared in recent years.",
+          "source": "https://wwf.panda.org/discover/knowledge_hub/endangered_species/rhinoceros/afric"
+        },
+        {
+          "animal": "Rhino",
+          "fact": "White rhinos are the second-largest land mammal in the world",
+          "source": "https://www.savetherhino.org/rhino-info/rhino-kids/fun-facts/"
+        },
+        {
+          "animal": "Western Africa Spitting Cobra",
+          "fact": "If The Western African Spitting Cobra (Naja katiensis) spits venom into the eyes of an individual, the individual will experience immediate and severe pain as well as temporary and sometimes permanent blindness.",
+          "source": "http://bransonswildworld.com/western-african-spitting-cobra/"
+        },
+        {
+          "animal": "Elephant",
+          "fact": "Elephant ears radiate heat to help keep these large animals cool, but sometimes the African heat is too much. Elephants are fond of water and enjoy showering by sucking water into their trunks and spraying it all over themselves.",
+          "source": "https://www.nationalgeographic.com/animals/mammals/facts/african-elephant"
+        },
+        {
+          "animal": "Girrafe",
+          "fact": "A giraffe's neck is too short to reach the ground. As a result, it has to awkwardly spread its front legs or kneel to reach the ground for a drink of water.",
+          "source": "https://www.dosomething.org/us/facts/11-facts-about-giraffes#fnref3"
+        },
+        {
+          "animal": "Hyena",
+          "fact": "Often cast as being foolish and dull, perhaps due to the misunderstanding of their laugh or giggle vocalization, spotted hyenas show shocking signs of intelligence that rivals most wild animals in Africa.",
+          "source": "https://www.wildtomorrowfund.org/blog/2020/5/7/10-amazing-facts-about-hyenas"
+        },
+        {
+          "animal": "Porcupines",
+          "fact": "Porcupines are the largest and heaviest of all African rodents.",
+          "source": "https://www.awf.org/wildlife-conservation/porcupine#:~:text=Porcupines%20are%20t"
+        },
+        {
+          "animal": "Cheetah",
+          "fact": "These big cats are the fastest of all land mammals. These cats can run as fast as 95 to 120 km/h (60-75 mph). Once the cat closes in, it knocks the prey to the ground with its paws and suffocates the animal with a bite to the neck.",
+          "source": "https://www.awf.org/wildlife-conservation/cheetah#:~:text=Cheetahs%20can%20run%2"
+        },
+        {
+          "animal": "Zebra",
+          "fact": "Zebras Stripe are unique like fingerprints. Their black and white stripes are unique and are as distinctive as human fingerprints. When a foal is born, they have reddish-brown stripes which gradually become darker and change to black as they grow.",
+          "source": "https://www.sophieallport.com/blogs/lifestyle/our-top-ten-interesting-zebra-fact"
+        },
+        {
+          "animal": "Wildebeest",
+          "fact": "Wildebeest are sociable, territorial animals. Females and their young form small herds, their territories frequently overlapping. After about a year, males will leave their herd and enter into a bachelor herd. At 4 or 5 years old, males will become highly territorial and depart from the bachelor herd.",
+          "source": "https://www.nathab.com/know-before-you-go/african-safaris/southern-africa/wildli"
+        },
+        {
+          "animal": "Warthog",
+          "fact": "Warthogs sleep underground at night in burrows that they steal from other animals such as aardvark. They don’t dig their own.",
+          "source": "https://www.shamwari.com/10-interesting-facts-about-warthogs/#:~:text=They%20hav"
+        },
+        {
+          "animal": "Nile Perch",
+          "fact": "ile perch up to 6.5 feet long and weighing 176 pounds have been caught and recorded by native fishermen and were once common. Much larger ones, up to 500 pounds, are said to have been taken in nets but have gone unrecorded. The all-tackle world record is a 230-pounder, caught in 2000 by trolling in Lake Nasser, Egypt.",
+          "source": "https://www.liveabout.com/species-profile-nile-perch-3572501#:~:text=The%20Nile%"
+        },
+        {
+          "animal": "Hippopotamus",
+          "fact": "The hippopotamus is considered the world's deadliest large land mammal. These semi-aquatic giants kill an estimated 500 people per year in Africa. Hippos are highly aggressive and are well-equipped to deliver considerable damage to anything that wanders into their territory.",
+          "source": "https://www.livescience.com/27339-hippos.html"
+        },
+        {
+          "animal": "Gorilla",
+          "fact": "We share around 98% of our DNA with Gorillas.This means that exposure to human illnesses – even a cold - can have potentially detrimental impacts on gorillas as they are so genetically similar to us, but they haven't developed the necessary immunities.",
+          "source": "https://www.wwf.org.uk/learn/fascinating-facts/gorillas"
+        },
+        {
+          "animal": "Buffalo",
+          "fact": "When the buffalo aren’t fighting off the occasional lion, they’re eating grass—and lots of it. It forms the bulk of their diet. Like cows, buffalo chew cud to further extract nutrients.",
+          "source": "https://www.nationalgeographic.com/animals/mammals/facts/african-buffalo"
+        },
+        {
+          "animal": "Ostrich",
+          "fact": "An ostrich can reach a speed of 70kmh. This is not only the fastest land speed of any bird, and the fastest of any two-legged creature, but also faster than most birds can fly. When running at full tilt, it takes strides of up to 5m.",
+          "source": "https://www.safaribookings.com/blog/5-fascinating-facts-about-the-ostrich"
+        },
+        {
+          "animal": "Crocodile",
+          "fact": "These nile crocodile can swim at a speed of 22mph.",
+          "source": "https://a-z-animals.com/animals/nile-crocodile/#single-animal-text"
+        }
+    ]}

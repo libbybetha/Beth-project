@@ -1,0 +1,40 @@
+body, css {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(208, 255, 0);
+    text-align: center;
+  }
+  
+  body * {
+    margin: 1em;
+    padding: 0;
+    list-style: none;
+  }
+  #source{
+    font-style: italic;
+    font-family: ;
+    color: blueviolet;
+  }
+  #fact{
+    color: rgb(255, 0, 255);
+  }
+  #animal{
+    color: rgb(17, 0, 255);
+  }
+  h1{
+    color: blue;
+  }
+  section {
+    display: flex;
+    flex-flow: row;
+    justify-content:space-between;
+
+      }
+    button{
+      color: brown;
+      font-weight: bold;
+    }
+  img{
+    height: 600px;
+  
+  }
